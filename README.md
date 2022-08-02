@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ujjwal Gautam.
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning Information and Computer Science.
+- 🌱 Bachelor in Information and Computer Science.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
