@@ -9,9 +9,11 @@ I'm Ujjwal Gautam, a passionate software engineering enthusiast. During the day,
 - 🌱 I’m passionate about software development and constantly strive to learn new technologies.
 - 💼 I'm open to freelancing projects and collaborating on exciting new ventures.
 
+<hr>
 
 - 💻 Languages, Frameworks, Tools
- <p float="left">
+<hr>
+- <p float="left">
 <img style="padding:5px;" align="center" alt="HTML" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img style="padding:5px;" align="center" alt="CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img style="padding:5px;" align="center" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -25,10 +27,7 @@ I'm Ujjwal Gautam, a passionate software engineering enthusiast. During the day,
 <img style="padding:5px;" align="center" alt="ReactJS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img style="padding:5px;" align="center" alt="ExpressJS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
 <img style="padding:5px;" align="center" alt="MeteorJS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meteor/meteor-original.svg"/>
-<img style="padding:5px;" align="center" alt="JavaFX" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javafx/javafx-original.svg"/>
-<img style="padding:5px;" align="center" alt="Twig" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twig/twig-original.svg"/>
 <img style="padding:5px;" align="center" alt="Redux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
-<img style="padding:5px;" align="center" alt="Rest API" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/restapi/restapi-original.svg"/>
 <img style="padding:5px;" align="center" alt="Docker" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img style="padding:5px;" align="center" alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img style="padding:5px;" align="center" alt="Linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
