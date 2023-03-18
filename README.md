@@ -12,32 +12,29 @@ I'm Ujjwal Gautam, a passionate software engineering enthusiast. During the day,
 
 - 💻 Languages, Frameworks, Tools
  <p float="left">
-  <img style="padding:5px;" align="center" alt="NodeJS" width="35px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-  <img style="padding:5px;" align="center" alt="ReactJs" width="35px" src="https://img.icons8.com/color/48/000000/reactjs.png"/>
-  <img style="padding:5px;" align="center" alt="HTML" width="35px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-  <img style="padding:5px;" align="center" alt="CSS" width="35px" src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img style="padding:5px;" align="center" alt="JavaScript" width="35px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-  <img style="padding:5px;" align="center" alt="Java" width="35px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-  <img style="padding:5px;" align="center" alt="C" width="35px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-  <img style="padding:5px;" align="center" alt="PHP" width="35px" src="https://img.icons8.com/color/48/000000/php-logo.png"/>
-  <img style="padding:5px;" align="center" alt="Python" width="35px" src="https://img.icons8.com/color/48/000000/python.png"/>
-  <img style="padding:5px;" align="center" alt="C#" width="35px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
-  <img style="padding:5px;" align="center" alt="C++" width="35px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-  <img style="padding:5px;" align="center" alt="NodeJS" width="35px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-  <img style="padding:5px;" align="center" alt="ReactJS" width="35px" src="https://img.icons8.com/color/48/000000/react.png"/>
-  <img style="padding:5px;" align="center" alt="ExpressJS" width="35px" src="https://img.icons8.com/color/48/000000/express.png"/>
-  <img style="padding:5px;" align="center" alt="MeteorJS" width="35px" src="https://img.icons8.com/color/48/000000/meteor.png"/>
-  <img style="padding:5px;" align="center" alt="JavaFX" width="35px" src="https://img.icons8.com/color/48/000000/javafx.png"/>
-  <img style="padding:5px;" align="center" alt="Twig" width="35px" src="https://img.icons8.com/color/48/000000/twig--v1.png"/>
-  <img style="padding:5px;" align="center" alt="Redux" width="35px" src="https://img.icons8.com/color/48/000000/redux.png"/>
-  <img style="padding:5px;" align="center" alt="Rest API" width="35px" src="https://img.icons8.com/fluent/48/000000/api-settings.png"/>
-  <img style="padding:5px;" align="center" alt="Docker" width="35px" src="https://img.icons8.com/color/48/000000/docker.png"/>
-  <img style="padding:5px;" align="center" alt="MySQL" width="35px" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
-  <img style="padding:5px;" align="center" alt="MongoDB" width="35px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img style="padding:5px;" align="center" alt="Linux" width="35px" src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
-  <img style="padding:5px;" align="center" alt="Windows" width="35px" src="https://img.icons8.com/color/48/000000/windows-logo--v1.png"/>
-  <img style="padding:5px;" align="center" alt="Git" width="35px" src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img style="padding:5px;" align="center" alt="Github" width="35px" src="https://img.icons8.com/material-sharp/48/000000/github.png"/>
+<img style="padding:5px;" align="center" alt="HTML" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img style="padding:5px;" align="center" alt="CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img style="padding:5px;" align="center" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img style="padding:5px;" align="center" alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img style="padding:5px;" align="center" alt="C" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img style="padding:5px;" align="center" alt="PHP" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+<img style="padding:5px;" align="center" alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img style="padding:5px;" align="center" alt="C#" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<img style="padding:5px;" align="center" alt="C++" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img style="padding:5px;" align="center" alt="NodeJS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img style="padding:5px;" align="center" alt="ReactJS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img style="padding:5px;" align="center" alt="ExpressJS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+<img style="padding:5px;" align="center" alt="MeteorJS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meteor/meteor-original.svg"/>
+<img style="padding:5px;" align="center" alt="JavaFX" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javafx/javafx-original.svg"/>
+<img style="padding:5px;" align="center" alt="Twig" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twig/twig-original.svg"/>
+<img style="padding:5px;" align="center" alt="Redux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
+<img style="padding:5px;" align="center" alt="Rest API" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/restapi/restapi-original.svg"/>
+<img style="padding:5px;" align="center" alt="Docker" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img style="padding:5px;" align="center" alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img style="padding:5px;" align="center" alt="Linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img style="padding:5px;" align="center" alt="Windows" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
+<img style="padding:5px;" align="center" alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img style="padding:5px;" align="center" alt="Github" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </p>
 
 
