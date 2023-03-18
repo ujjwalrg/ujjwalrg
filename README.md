@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;Welcome+to+my+GitHub+profile;where+passion+meets+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;Welcome+to+my+GitHub+profile!!)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m Ujjwal Gautam.
 - 👀 I’m interested in software development.
