@@ -13,7 +13,7 @@ I'm Ujjwal Gautam, a passionate software engineering enthusiast. During the day,
 - 💻 Languages, Frameworks, Tools
  <p float="left">
   <img style="padding:5px;" align="center" alt="NodeJS" width="35px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-  <img style="padding:5px;" align="center" alt="ReactJs" width="35px" src="https://img.icons8.com/color/48/000000/react.png"/>
+  <img style="padding:5px;" align="center" alt="ReactJs" width="35px" src="https://img.icons8.com/color/48/000000/reactjs.png"/>
   <img style="padding:5px;" align="center" alt="HTML" width="35px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img style="padding:5px;" align="center" alt="CSS" width="35px" src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img style="padding:5px;" align="center" alt="JavaScript" width="35px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
