@@ -2,7 +2,7 @@
 
 I'm Ujjwal Gautam, a passionate software engineering enthusiast. During the day, I code like a ninja and at night I dream about coding the next day. My mission is to bring my expertise in software development and engineering to the world, and become a legendary software engineer who can code with one hand and debug with the other
 
-- ⚡️ A quick introduction
+- ## ⚡️ A quick introduction
 
 - 👋 Hi, I’m Ujjwal Gautam.
 - 🔭 I’m currently working as an IT Systems Engineer and Software Engineering Intern.
@@ -11,8 +11,8 @@ I'm Ujjwal Gautam, a passionate software engineering enthusiast. During the day,
 
 <hr>
 
-- 💻 Languages, Frameworks, Tools
-<hr>
+- ## 💻 Languages, Frameworks, Tools
+
 - <p float="left">
 <img style="padding:5px;" align="center" alt="HTML" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img style="padding:5px;" align="center" alt="CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
