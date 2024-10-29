@@ -5,9 +5,7 @@ I'm Ujjwal Gautam, a passionate software engineering enthusiast. During the day,
 ## ⚡️ A quick introduction
 
 - 👋 Hi, I’m Ujjwal Gautam.
-- 🔭 I currently work as an IT Systems Engineer and Software Engineering Intern.
-- 🌱 I’m passionate about software development and constantly strive to learn new technologies.
-- 💼 I'm open to freelancing projects and collaborating on exciting new ventures.
+- 🔭 I currently work as a Software Engineer.
 
 <hr>
 
